@@ -1,3 +1,6 @@
+# notebook junk files
+.ipynb_checkpoints
+
 # data files
 /data
 
