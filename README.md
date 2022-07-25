@@ -11,3 +11,7 @@ Before we ran any of our models, we had to first clean up the data. To do so, we
 Our XG Boost model provided an accuracy score of 80%. Which was the main objective as we could look into the true negative and true positive to make bets. Thus, our model does an outstanding job in predicting the winner, but that won't always be the case. 
 ## Next Step
 If we were to have more time we would clean up our data even more, so it could be more accurate. As well as add more data regarding, power rankings, future seasons, and player injuries. And also, refine our model and parameters, so we can get a higher accuracy score. And at the end generate Padawan John more income with safer bets.
+
+## Additional Sources
+[Data Source]()
+[Presentation](Presentation.pdf)
