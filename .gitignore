@@ -1,9 +1,8 @@
-# Datafiles
-/data
-
-
 # notebook junk files
 .ipynb_checkpoints
+
+# data files
+/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
