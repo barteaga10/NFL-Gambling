@@ -13,5 +13,13 @@ Our XG Boost model provided an accuracy score of 80%. Which was the main objecti
 If we were to have more time we would clean up our data even more, so it could be more accurate. As well as add more data regarding, power rankings, future seasons, and player injuries. And also, refine our model and parameters, so we can get a higher accuracy score. And at the end generate Padawan John more income with safer bets.
 
 ## Additional Sources
-[Data Source]()
-[Presentation](Presentation.pdf)
+ * [Data Source](https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data)
+ * [Presentation](Presentation.pdf)
+
+ Repository Structure:
+```
+├── Final Notebook.ipynb                       # code/project notebook
+├── images                                     # images and graphics
+├── Presentation.pdf                           # non-technical slides
+└── README.md                                  # the top-level README 
+```
