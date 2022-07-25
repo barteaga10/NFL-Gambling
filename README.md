@@ -9,6 +9,7 @@ The data set that was used to create our models came from Kaggle. Which included
 Before we ran any of our models, we had to first clean up the data. To do so, we dropped pesky null values, focused on the years 1985-2022, and dropped data from the superbowl. We also coverted a categorical column to numerical, as well as, created new columns such as, avgerage spread of home team and average temp. of home team. After cleaning the data up we ended with about 9000 games compare to the 13,000 games. We focused on the weather, score, speard, and favorite team. We ran a couple of baseline models to see which was going to provide the best accuracy score. At the end, we went with the XG Boost model. 
 ## Results 
 ![xgboost](images/xgboost.png)
+
 Our XG Boost model provided an accuracy score of 80%. Which was the main objective as we could look into the true negative and true positive to make bets. Thus, our model does an outstanding job in predicting the winner, but that won't always be the case. 
 ## Next Step
 If we were to have more time we would clean up our data even more, so it could be more accurate. As well as add more data regarding, power rankings, future seasons, and player injuries. And also, refine our model and parameters, so we can get a higher accuracy score. And at the end generate Padawan John more income with safer bets.
